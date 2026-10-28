@@ -430,8 +430,8 @@ export default function CRMDashboard() {
             CRM Pro © 2024 · Sistema de Gestión de Relaciones con Clientes
           </p>
           <p className="text-slate-600 text-sm font-medium text-center">
-            Proyecto final de la materia Ingeniería de software - SU NOMBRE -SU
-            CODIGO
+            Proyecto final de la materia Ingeniería de software - Benjamin
+            Peredo -225361393
           </p>
         </div>
       </footer>
